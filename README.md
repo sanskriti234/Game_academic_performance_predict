@@ -104,16 +104,6 @@ Open Jupyter Notebook and run the notebook file:
 jupyter notebook
 ```
 
----
-
-## Future Improvements
-
-* Add advanced regression models
-* Create a web application using Flask or Streamlit
-* Add data visualizations
-* Improve model accuracy
-
----
 
 ## Conclusion
 
